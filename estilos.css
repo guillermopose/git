@@ -20,3 +20,19 @@ body header{
 body header h1{
     color: aqua;
 }
+body nav{
+    height: 5vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+body nav ul{
+    
+}
+body nav ul li{
+    display: inline-block;
+
+}
